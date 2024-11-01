@@ -10,10 +10,6 @@ public class PasswordGenerator {
         length = len;
     }
 
-    public void setLength(int len){
-        length = len;
-    }
-
     public char[] generate(){
         char[] password = new char[length];
         char[] specialSymbols = {'_', '!', '?', '-', '+', '%', '$'};
