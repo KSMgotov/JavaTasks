@@ -1,21 +1,25 @@
 package tasks.task1;
+
 import java.util.Scanner;
+
 public class Game {
+
     private final String targetWord;
     private final char[] currentWord;
     private int livesCount;
     private final int length;
     private int guessedLetters;
+
     public Game(String word, int lives){
         targetWord = word.toLowerCase();
         livesCount = lives;
-        guessedLetters = 0;
         length = targetWord.length();
         currentWord = new char[length];
         for(int i = 0; i < length; i++){
             currentWord[i] = '_';
         }
     }
+
     public void play(){
         Scanner in = new Scanner(System.in);
         char curChar;
@@ -45,4 +49,5 @@ public class Game {
             System.out.println("Поражение :(");
         }
     }
+
 }
