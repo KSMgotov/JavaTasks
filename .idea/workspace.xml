@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20dbfb9b-4942-431e-bc72-c5f54924c615" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/tasks/task1/Words.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tasks/task2/Converter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tasks/task2/ValuesReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tasks/task3/PasswordGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tasks/task1/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/task1/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tasks/task1/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/task1/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tasks/task2/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/task2/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tasks/task3/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/task3/Application.java" afterDir="false" />
+    <list default="true" id="20dbfb9b-4942-431e-bc72-c5f54924c615" name="Changes" comment="First commit">
+      <change beforePath="$PROJECT_DIR$/src/main/java/tasks/task3/PasswordGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/task3/PasswordGenerator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +74,23 @@
       <option name="project" value="LOCAL" />
       <updated>1729853756266</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First commit">
+      <option name="closed" value="true" />
+      <created>1730474628082</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730474628082</updated>
+    </task>
+    <task id="LOCAL-00003" summary="First commit">
+      <option name="closed" value="true" />
+      <created>1730474679606</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730474679606</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -4,7 +4,7 @@ import java.util.Random;
 
 public class PasswordGenerator {
 
-    private int length;
+    private final int length;
 
     public PasswordGenerator(int len){
         length = len;
